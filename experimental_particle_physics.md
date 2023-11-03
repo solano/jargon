@@ -1,3 +1,7 @@
+# Experimental particle physics jargon
+
+[Go back to index](README.md)
+
 - **Acceptance**: fraction of events that are detected. In general, only the product of acceptance
 and efficiency is well-defined. While b-tagging efficiency may refer to the fraction of detected
 b jets that are b-tagged, b jet acceptance refers to how many b jets are detected in the first place.
