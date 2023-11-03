@@ -1,3 +1,7 @@
+# Gravitational wave physics jargon
+
+[Go back to index](README.md)
+
 - **Accumulate SNR**: get better SNR by accumulating data over time. Will be the
 case for Galactic signals seen by LISA. See **SNR**.
 
