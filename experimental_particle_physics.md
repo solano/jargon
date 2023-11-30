@@ -7,7 +7,7 @@ and efficiency is well-defined. While b-tagging efficiency may refer to the frac
 b jets that are b-tagged, b jet acceptance refers to how many b jets are detected in the first place.
 
 - **b-tagging**, **b-tagged jet**: a jet is b-tagged when we think it comes from a b quark. The main
-feature of b jets is that they come from displaced vertices, because the b quark takes time to hadronize.
+feature of b jets is that they come from displaced vertices, because the b quark takes time to decay.
 
 - **CLs formalism**: [method](https://www.pp.rhul.ac.uk/~cowan/stat/cls/CLsInfo.pdf) to
 produce exclusion limits. For a one-sided right-tail test statistic Q, define
