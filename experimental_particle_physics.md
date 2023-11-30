@@ -6,6 +6,9 @@
 and efficiency is well-defined. While b-tagging efficiency may refer to the fraction of detected
 b jets that are b-tagged, b jet acceptance refers to how many b jets are detected in the first place.
 
+- **b-tagging**, **b-tagged jet**: a jet is b-tagged when we think it comes from a b quark. The main
+feature of b jets is that they come from displaced vertices, because the b quark takes time to hadronize.
+
 - **CLs formalism**: [method](https://www.pp.rhul.ac.uk/~cowan/stat/cls/CLsInfo.pdf) to
 produce exclusion limits. For a one-sided right-tail test statistic Q, define
 
@@ -30,10 +33,15 @@ to the signal region, commonly used for estimating backgrounds. Example: if the 
 two opposite-sign (OS) muons, the control region could be composed of same-sign (SS) muons, or of
 a muon and an electron, and so on.
 
+- **Cut**: requirement for the data to be selected. For example: highest $p_T$ jet has to have
+$\eta < 2$.
+
 - **Data**: experimental data (not Monte Carlo).
 
 - **Data-driven**: a background or something about it is estimated in a data-driven way if it is not
 estimated directly from Monte Carlo, but rather from the data themselves.
+
+- **Displaced vertex**: vertex that is away from the main interaction vertex. Used for b-tagging.
 
 - **Efficiency**: ratio of "successes" over number of "tries". For example, the b-tagging efficiency
 is the fraction of b jets that are b-tagged. See also **acceptance**.
