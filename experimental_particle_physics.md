@@ -65,10 +65,25 @@ $\hat{\theta}\pm\Delta\hat{\theta}$, and record the resulting values of $\mu$ as
 Then the post-fit impacts are the values of $\mu^+_1 - \mu_1$ and $\mu^-_1 - \mu_1$.
 Impacts are often presented together with **pulls** in a so-called _pulls and impacts_ plot.
 
+- **Isolated lepton**: the b quark, which is always very boosted in pp colliders due to its low mass,
+can decay semileptonically. The resulting leptons are very collinear with the accompanying jet.
+Therefore a non-isolated lepton (one that is very collinear with a jet) is probably nonprompt.
+See also **non-prompt leptons**.
+
 - **Loose**: a loose particle does not meet all selection criteria for its species. For example,
 you may consider that only electrons with $|\eta| \le 2.0$ are to be considered in your analysis, in
 which case an electron that meets all other criteria for electrons but has $|\eta| > 2.0$ is a
 loose electron. Loose particles are used as control regions. See **tight**.
+
+- **Missing transverse energy**: weakly interacting particles like neutrinos or dark matter
+candidates do not deposit any energy in the detector. They are only seen as missing transverse energy
+in the collision, i.e. a difference in transverse energy before the collision and after the collision.
+See also **transverse energy**.
+
+- **Molière radius**: radius of cylinder containing 90% of the energy deposit in a particle shower.
+
+- **Non-prompt leptons**: either fake (misidentified) leptons or genuine leptons that however do
+not come from the interaction of interest. For example, a b quark may decay semileptonically.
 
 - **Pileup**, **pile-up**, **PU**: PU 50 means that 50 collisions are recorded at once, while
 only one is used for analysis. Large PU complicates reconstructions.
@@ -110,5 +125,12 @@ distribution. A $5\sigma$ significance (threshold for discovery) means a p-value
 
 - **Tight**: a particle is considered tight if it meets all selection criteria for its species.
 See **loose**.
+
+- **Transverse energy**: in hadron colliders, because the momentum fraction of partons is unknown,
+the center-of-mass frame for each collision is boosted in the longitudinal direction with respect
+to the lab frame. This means that only transverse momenta, which are unaffected by this boost, can
+really be predicted and compared to the data.
+
+- $X_0$: the distance over which a particle shower loses energy by a factor 1/e.
 
 - **Yield** or **data yield**: number of observed events.
