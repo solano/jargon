@@ -6,6 +6,10 @@
 and efficiency is well-defined. While b-tagging efficiency may refer to the fraction of detected
 b jets that are b-tagged, b jet acceptance refers to how many b jets are detected in the first place.
 
+- **Acollinearity**: angle between two produced particles in 3D.
+
+- **Acoplanarity**: angle between two produced particles in the transverse plane.
+
 - **b-tagging**, **b-tagged jet**: a jet is b-tagged when we think it comes from a b quark. The main
 feature of b jets is that they come from displaced vertices, because the b quark takes time to decay.
 
