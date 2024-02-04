@@ -54,6 +54,10 @@ is the fraction of b jets that are b-tagged. See also **acceptance**.
 an upper or lower limit on an observable. In practice is used with the CLs formalism that does not,
 strictly speaking, produce confidence intervals.
 
+- **Fiducial region**: geometrical region of detector that where events are considered for analysis.
+Events outside the fiducial region (for example for $|\eta|$ too large) are excluded from the data
+analysis.
+
 - **Impact**, **pre-fit impact**, **post-fit impact**: a measure of how changing a nuisance parameter
 of one standard deviation changes the resulting value of the parameter of interest. Let $\mu$ be
 the parameter of interest, $\theta$ be the nuisance parameter under consideration, $\theta_0$ its
@@ -126,6 +130,15 @@ deviation from the SM, since the expected value of $\mu$ is always 1.
 distribution. A $5\sigma$ significance (threshold for discovery) means a p-value of $3\times 10^{-7}$.
 
 - **Statistics**, as in **accumulate statistics**: (experimental) data.
+
+- **Thrust**, **thrust axis**: the quantity
+
+$$
+T = \max_{|n|=1} \left[ \frac{\sum_i |p_i \cdot n|}{\sum_i |p_i|} \right]
+$$
+
+is called the [thrust](https://en.wikipedia.org/wiki/Thrust_(particle_physics)), and the axis $n$ that
+maximizes this expression is called the thrust axis.
 
 - **Tight**: a particle is considered tight if it meets all selection criteria for its species.
 See **loose**.
