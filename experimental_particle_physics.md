@@ -2,6 +2,11 @@
 
 [Go back to index](README.md)
 
+- **ABCD method**: a data-driven method to estimate the background. In this method two uncorrelated
+parameters (under null hypothesis) are used to divide the parameter space in four regions, region A
+being the signal region. By the uncorrelated assumption, then, one can extract information about the
+background in the signal region using the other three regions. See [this guide](https://twiki.cern.ch/twiki/pub/Main/ABCDMethod/ABCDGuide_draft18Oct18.pdf).
+
 - **Acceptance**: fraction of events that are detected. In general, only the product of acceptance
 and efficiency is well-defined. While b-tagging efficiency may refer to the fraction of detected
 b jets that are b-tagged, b jet acceptance refers to how many b jets are detected in the first place.
